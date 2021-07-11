@@ -1,0 +1,204 @@
+body {
+    text-align: center;
+}
+
+.link_menu {
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    z-index: 10;
+    background-color: black;
+    margin-top: 0px;
+}
+
+.link {
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.link_menu a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+}
+
+.link_menu:hover a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.imgeg {
+    height: 300px;
+    width: 450px;
+}
+
+.imgtg {
+    height: 300px;
+    width: 450px;
+}
+
+.imgiw {
+    height: 300px;
+    width: 450px;
+}
+
+.p {
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+#egimg1 {
+    width: 600px;
+    height: 350px;
+}
+
+#egimg2 {
+    width: 600px;
+    height: 350px;
+}
+
+#egimg3 {
+    width: 600px;
+    height: 350px;
+}
+
+#egimg4 {
+    width: 600px;
+    height: 350px;
+}
+
+#elon {
+    width: 600px;
+    height: 300px;
+}
+
+text {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+#pam {
+    color: black;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.h__1 {
+    font-family: 'Caveat', cursive;
+    color: black;
+}
+
+.Myin {
+    height: 300px;
+}
+
+.im {
+    height: 725px;
+    width: 1250px;
+    padding: 20px;
+}
+
+#h_1 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 80px;
+    color: black;
+}
+
+#mail {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+#mail:hover {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+#phone {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+#phone:hover {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+#phoneme {
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+#phoneme:hover {
+    color: black;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+#mailme {
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+#mailme:hover {
+    color: black;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+hr {
+    color: black;
+}
+
+#Butt {
+    background-color: orange;
+    border-color: black;
+    border-style: solid;
+    color: black;
+    border-radius: 6px;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+}
